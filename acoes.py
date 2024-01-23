@@ -2,8 +2,6 @@ import yfinance as yf
 import pandas as pd
 from datetime import datetime
 import streamlit as st
-import plotly.express as px
-import seaborn as sns
 import altair as alt
 
 
